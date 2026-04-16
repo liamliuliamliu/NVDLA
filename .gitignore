@@ -10,3 +10,5 @@ vmod/dw_components/
 outdir/
 .nvprojectname
 tree.make
+.dvt/
+dvt_build.log
